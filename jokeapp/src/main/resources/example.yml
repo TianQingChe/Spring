@@ -1,0 +1,19 @@
+# this is a comment
+name:  John
+
+names: # list类型
+    - John
+    - Paul
+    - Ringo
+
+books: #有属性的变量类型
+    author:  Dan Brown
+    publisher:  random house
+
+truth:  yes
+
+another_true:  True
+
+more_true: true
+
+false: #no, false,FALSE not case sensitive

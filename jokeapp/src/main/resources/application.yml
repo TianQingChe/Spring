@@ -1,0 +1,5 @@
+guru:
+  jms:
+    username:  JMS username
+    password:  somehow
+    url: someURL

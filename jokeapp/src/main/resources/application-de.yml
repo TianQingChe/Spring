@@ -1,0 +1,5 @@
+guru:
+  jms:
+    username:  WOHA
+    password:  somehow
+    url: someURL
