@@ -1,2 +1,2 @@
 # Spring
-Here are all my spring projects!
+Here are some small projects developed by Spring!
